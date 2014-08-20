@@ -1,2 +1,1 @@
-PML-trial
-=========
+Project for Practical Machine Learning
